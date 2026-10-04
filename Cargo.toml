@@ -1,0 +1,11 @@
+[package]
+name = "pumpkin-fidget-octo"
+version = "0.1.0"
+edition = "2021"
+
+authors = ["Emma"]
+description = "A computational crochet pattern generator and edge simulator for the Pumpkin Fidget Octo."
+license = "MIT"
+repository = "https://github.com/emmatoad-droid/pumpkin-fidget-octo"
+
+[dependencies]
